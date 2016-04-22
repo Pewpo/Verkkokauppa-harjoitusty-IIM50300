@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<products>
+  
+<product><id>6</id><name>Lusikka</name><price>1</price><availability>300</availability><description>Lusikalla voit sy&#xF6;d&#xE4; keittoa!</description></product><product><id>14</id><name>Tunnelmavalaisin</name><price>100</price><availability>4</availability><description>Luo revontulet suoraan kotilauteillesi!</description></product></products>

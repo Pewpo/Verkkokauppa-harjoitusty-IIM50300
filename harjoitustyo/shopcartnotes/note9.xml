@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<products>
+  <product>
+    <id>8</id>
+    <name>Haarukka</name>
+    <price>2</price>
+    <availability>70</availability>
+    <description>5 piikkinen haarukka. Sopii niin juhla- kuin normaaliin k&#xE4;ytt&#xF6;&#xF6;nkin.</description>
+  </product>
+<product><id>9</id><name>Paistinpannu</name><price>13</price><availability>20</availability><description>Uusi paistinpannu makkosilta. Toimii niin uunissa l&#xE4;mmitt&#xE4;miseen kuin hellallakin.</description></product></products>

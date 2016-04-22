@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<products>
+  
+<product><id>23</id><name>Hansikkaat</name><price>2</price><availability>553</availability><description>Perus hyv&#xE4;t hanskat. Soveltuvat mm. Puutarhat&#xF6;ihin!</description></product><product><id>26</id><name>Kanankakka lannoite 1kg</name><price>40</price><availability>30</availability><description>Saa kasvin kuin kasvin kasvamaan!</description></product><product><id>21</id><name>Kuokka</name><price>13</price><availability>23</availability><description>Viherpeukaloiden "Must get!"</description></product></products>

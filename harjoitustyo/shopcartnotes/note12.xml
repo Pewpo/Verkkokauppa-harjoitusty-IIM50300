@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<products>
+  <product>
+    <id>8</id>
+    <name>Haarukka</name>
+    <price>2</price>
+    <availability>70</availability>
+    <description>5 piikkinen haarukka. Sopii niin juhla- kuin normaaliin k&#xE4;ytt&#xF6;&#xF6;nkin.</description>
+  </product>
+<product><id>7</id><name>Samsung Tehosekoitin</name><price>60</price><availability>50</availability><description>4,5 Wattinen tehosekoitin sekoittaa ruuan kuin ruuan. Nyt kolmen vuoden takuulla.</description></product><product><id>6</id><name>Lusikka</name><price>1</price><availability>300</availability><description>Lusikalla voit sy&#xF6;d&#xE4; keittoa!</description></product><product><id>5</id><name>Kaulin</name><price>7</price><availability>25</availability><description>Kaulin soveltuu hyvin esim leipomiseen!</description></product></products>

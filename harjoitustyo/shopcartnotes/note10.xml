@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<products>
+  <product>
+    <id>7</id>
+    <name>Samsung Tehosekoitin</name>
+    <price>60</price>
+    <availability>50</availability>
+    <description>4,5 Wattinen tehosekoitin sekoittaa ruuan kuin ruuan. Nyt kolmen vuoden takuulla.</description>
+  </product>
+<product><id>22</id><name>Rikkalapio</name><price>3</price><availability>23</availability><description>Rikkaruohojen kitkemiseen. Saatavilla vaihdettava kahva.</description></product><product><id>21</id><name>Kuokka</name><price>13</price><availability>23</availability><description>Viherpeukaloiden "Must get!"</description></product><product><id>23</id><name>Hansikkaat</name><price>2</price><availability>553</availability><description>Perus hyv&#xE4;t hanskat. Soveltuvat mm. Puutarhat&#xF6;ihin!</description></product><product><id>10</id><name>L&#xF6;ylykauha</name><price>25</price><availability>120</availability><description>Puinen l&#xF6;ylykauha. Tehty koivusta</description></product><product><id>13</id><name>L&#xE4;mp&#xF6;mittari</name><price>12</price><availability>60</availability><description>Perus l&#xE4;mp&#xF6;mittari harvialta!</description></product></products>
